@@ -1,0 +1,12 @@
+This is a quote generates quotes automatically. 
+ This process involved is as follows. 
+1. create a div which is the main div 
+2. ADD all the fav icon apis 
+3. ensure you design the website to suite the requirement 
+4. Fetch the api.
+5. The project will focus on how to use speech in javascript 
+
+The style parameters 
+1. Color : #fff
+2. Bg-color: #e0e0e0
+3. shadow and button:rgba(34, 214, 124, 0.5);
