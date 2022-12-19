@@ -13,7 +13,6 @@ soundBtn.addEventListener("click",() => {
   let Utterance = new SpeechSynthesisUtterance(`${QuoteText.innerText }  by ${authorName.innerText}`);
   speechSynthesis.speak(Utterance);
     // Get a reference to the button element
-// Get a reference to the button element
 const button = document.querySelector('.stop-button');
 
 // Add a click event listener to the button
